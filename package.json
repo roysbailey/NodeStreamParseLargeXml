@@ -1,0 +1,15 @@
+{
+    "name":"ParseLargeXml",
+    "version":"0.0.1",
+    "description":"Sample to parse a large XML file in a streamed manner",
+    "main":"server.js",
+    "author":
+    {
+        "name":"Roy",
+        "email":"roysbailey@silvertouch.co.uk"
+    },
+    "dependencies":
+    {
+        "sax":"x"
+    }
+}
